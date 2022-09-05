@@ -1,0 +1,1 @@
+First we open xampp, then we open the IDE. After running the code, we print the data on the terminal and add data to the database. If we want to add data for the second time, it will give an error. Since we get the id values, if we enter different id and user values and run it, we can add the second data.
